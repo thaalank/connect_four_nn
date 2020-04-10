@@ -1,4 +1,9 @@
 # Connect4-NN
+
+Authors:
+Thaalank Ranjan @thaalank
+Barron Dubois @duboisbarron
+
 All development was done using Python 3.6
 
 AIvsAI - run 1000 simulated games using randomAI
